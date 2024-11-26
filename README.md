@@ -1,5 +1,5 @@
 # Pingviper
-Just a dumb tool that automates ping sweeps and Nmap scans.
+Just a dumb script that automates ping sweeps and Nmap scans.
 
 Usage
 
